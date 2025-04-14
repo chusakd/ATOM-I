@@ -35,6 +35,14 @@
 //#define BLYNK_TEMPLATE_ID           "TMPxxxxxx"
 //#define BLYNK_TEMPLATE_NAME         "Device"
 //#define BLYNK_AUTH_TOKEN            "YourAuthToken"
+//camping area
+//#define BLYNK_TEMPLATE_ID   "TMPL6-7VoPgXt"
+//#define BLYNK_TEMPLATE_NAME "ESP32WROOM"
+//#define BLYNK_AUTH_TOKEN    "wganys45E5nKcdG8txvtBGjvK1D_lxga"
+// Tamarine Tree
+//#define BLYNK_TEMPLATE_ID "TMPL6xgDHigEI"
+//#define BLYNK_TEMPLATE_NAME "ESP32Tamarine2"
+//#define BLYNK_AUTH_TOKEN    "Cd4Qy6SoLyUM0mo7rVOX89qpe6LFUNKn"
 
 
 #define BLYNK_TEMPLATE_ID "TMPL6IPn-sG-c"
