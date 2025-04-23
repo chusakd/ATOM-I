@@ -15,7 +15,7 @@ Ref: https://shopee.co.th/%E0%B9%82%E0%B8%A1%E0%B8%94%E0%B8%B9%E0%B8%A5%E0%B8%A3
 
 Include the following features:
 
-Use Blynk Template ID: "TMPL6IPn-sG-c", Template Name: "ESP32WROOMRestRoom", and Auth Token: "04ymt3OJZrgfExu8KMSj_EDRDWi-Lt1d".
+Use Blynk Template ID: "TMPL6IPn-sG-c", Template Name: "ESP32WROOMRestRoom", and Auth Token: "04ymt3OJZrgfExu8KMSj_EDRDWi-xxxx".
 
 Control 4 relays connected to GPIO 33, 35, 32, and 34 using virtual pins V0, V1, V2, and V3 respectively.
 
