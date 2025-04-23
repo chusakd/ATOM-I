@@ -27,3 +27,6 @@ All relays should be set to LOW initially in the setup() function.
 
 Include helper functions to initialize relays and display valve status."
 
+VDO Clips:
+https://youtu.be/dr3Ww1EJpdE
+
